@@ -1,5 +1,13 @@
 # Roo Code Changelog
 
+## 3.16.7
+
+### Patch Changes
+
+- Add a 'when to use' section to mode definitions
+- Switch to the new Roo message parser
+- Requesty: Fix token usage counts
+
 ## [3.16.6] - 2025-05-12
 
 - Restore "Improve provider profile management in the external API"
